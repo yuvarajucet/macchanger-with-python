@@ -22,3 +22,9 @@
 ```
 cd macchanger-gui
 ```
+```
+chmod +x start-gui.sh
+```
+```
+./start-gui.sh
+```
