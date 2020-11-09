@@ -1,5 +1,5 @@
 # macchanger-with-python
-# CLI [Mode]
+# * CLI [Mode]
 
 ```
 [manual mode] python3 macchanger.py -i [interface] -m XX:XX:XX:XX:XX:XX
@@ -17,7 +17,7 @@
 -R  Automatically pic random MAC for your interface
 -i  Interface
 ```
-# GUI [MODE]
+# * GUI [MODE]
 
 ```
 cd macchanger-gui
