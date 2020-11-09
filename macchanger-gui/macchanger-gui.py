@@ -85,7 +85,7 @@ lable1.config(bg='black',fg='white')
 
 #Set Buttons--
 btn = Button(gui,
-            text="Your MAC",
+            text="Show MAC",
             command=show_mac,
             bg='black',fg='white',activebackground='white',activeforeground='black').place(x=10,y=100)
 
